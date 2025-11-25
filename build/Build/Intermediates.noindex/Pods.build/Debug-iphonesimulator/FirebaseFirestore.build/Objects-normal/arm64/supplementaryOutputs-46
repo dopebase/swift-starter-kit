@@ -1,0 +1,18 @@
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQueryObservable.swift":
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.dia"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftconstvalues"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.d"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.o"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftdeps"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/GeoPoint+Codable.swift":
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftconstvalues"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.o"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftdeps"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.dia"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.d"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/QueryPredicate.swift":
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.o"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.d"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.dia"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftconstvalues"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftdeps"

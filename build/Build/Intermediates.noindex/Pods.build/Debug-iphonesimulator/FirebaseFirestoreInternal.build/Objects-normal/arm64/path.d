@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/path.cc \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/path.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/string_apple.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/nullability.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/nullability_impl.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/hard_assert.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/exception.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/include/firebase/firestore/firestore_errors.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/string_format.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/src/objc/objc_type_traits.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/type_traits.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/has_absl_stringify.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/resize_uninitialized.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/stringify_sink.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/endian.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/casts.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/unaligned_access.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/bits.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/internal/bits.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/string_win.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/ascii.h

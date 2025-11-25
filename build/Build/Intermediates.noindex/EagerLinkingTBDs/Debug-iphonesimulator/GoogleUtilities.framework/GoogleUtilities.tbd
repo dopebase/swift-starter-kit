@@ -1,0 +1,99 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_kGULNetworkHTTPStatusCodeMovedTemporarily",
+            "_kGULNetworkErrorContext",
+            "_kGULKeychainUtilsErrorDomain",
+            "_kGULNetworkApplicationSupportSubdirectory",
+            "_kGULNetworkTimeOutInterval",
+            "_kGULNetworkHTTPStatusCodeMovedPermanently",
+            "_kGULNetworkHTTPStatusCodeMultipleChoices",
+            "_kGULNetworkTempDirectoryName",
+            "_GULNSDataZlibRemainingBytesKey",
+            "_kGULNetworkTempFolderExpireTime",
+            "_kGULNetworkHTTPStatusOK",
+            "_kGULNetworkBackgroundSessionConfigIDPrefix",
+            "_kGULNetworkHTTPStatusCodeNotFound",
+            "_kGULNetworkErrorDomain",
+            "_kGULLoggerNetwork",
+            "_GoogleUtilitiesVersionNumber",
+            "_kGULNetworkHTTPStatusCodeCannotAcceptTraffic",
+            "_kGULLogSubsystem",
+            "_GoogleUtilitiesVersionString",
+            "_kGULNetworkHTTPStatusNoContent",
+            "_GULNSDataZlibErrorDomain",
+            "_GULNSDataZlibErrorKey",
+            "_kGULNetworkHTTPStatusCodeFound",
+            "_kGULNetworkReachabilityHost",
+            "_kGULNetworkHTTPStatusCodeUnavailable",
+            "_kGULNetworkHTTPStatusCodeNotModified"
+          ],
+          "objc_class": [
+            "GULNetwork",
+            "GULZeroingWeakContainer",
+            "GULKeychainUtils",
+            "GULAppDelegateSwizzler",
+            "GULSwizzler",
+            "GULNetworkURLSession",
+            "GULSceneZeroingWeakContainer",
+            "GULAppDelegateObserver",
+            "GULAppEnvironmentUtil",
+            "GULSceneDelegateSwizzler",
+            "GULUserDefaults",
+            "PodsDummy_GoogleUtilities",
+            "GULKeychainStorage",
+            "GULReachabilityChecker",
+            "GULNetworkInfo",
+            "GULLoggerWrapper",
+            "GULMutableDictionary"
+          ]
+        },
+        "text": {
+          "global": [
+            "_GULReachabilityStatusString",
+            "_GULOSLogDebug",
+            "_GULSetLoggerLevel",
+            "_GULOSLogWarning",
+            "_GULResetLogger",
+            "_GULGetLoggerLevel",
+            "_getGULLoggerDebugMode",
+            "_GULOSLogNotice",
+            "_GULLoggerInitialize",
+            "_GULLoggerRegisterVersion",
+            "_GULLoggerForceDebug",
+            "_GULOSLogBasic",
+            "_GULOSLogError",
+            "_GULOSLogInfo",
+            "_GULLoggerLevelToOSLogType",
+            "_GULIsLoggableLevel",
+            "_GetGULSwizzlingQueue",
+            "_IsAppEncrypted",
+            "_getGULClientQueue"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/GoogleUtilities.framework/GoogleUtilities"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

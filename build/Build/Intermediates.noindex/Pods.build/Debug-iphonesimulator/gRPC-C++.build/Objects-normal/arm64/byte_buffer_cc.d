@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/gRPC-C++/src/cpp/util/byte_buffer_cc.cc \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Target\ Support\ Files/gRPC-C++/gRPC-C++-prefix.pch \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/byte_buffer.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/grpc_types.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/channel_arg_names.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/compression_types.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/port_platform.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/slice.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/slice_type.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/sync.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/time.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/sync_generic.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/atm.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/atm_gcc_atomic.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/sync_posix.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/status.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/slice_buffer.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/byte_buffer_reader.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/grpc.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/connectivity_state.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/propagation_bits.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/gRPC-C++/include/grpcpp/support/byte_buffer.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Products/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/log.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/gRPC-C++/include/grpcpp/impl/serialization_traits.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/gRPC-C++/include/grpcpp/support/config.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/gRPC-C++/include/grpcpp/support/slice.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/gRPC-C++/include/grpcpp/support/string_ref.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/gRPC-C++/include/grpcpp/support/status.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/gRPC-C++/include/grpcpp/impl/status.h \
+  /Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/gRPC-C++/include/grpcpp/support/status_code_enum.h

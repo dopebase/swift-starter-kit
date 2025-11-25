@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameArrowBackIcon</string>
+			<key>relativePath</key>
+			<string>./arrow-back-icon.imageset</string>
+			<key>swiftSymbol</key>
+			<string>arrowBackIcon</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLogo</string>
+			<key>relativePath</key>
+			<string>./logo.imageset</string>
+			<key>swiftSymbol</key>
+			<string>logo</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift":
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.swiftdeps"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.swiftconstvalues"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.dia"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.d"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.o"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Core/WebSocketRequest.swift":
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/WebSocketRequest.d"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/WebSocketRequest.swiftconstvalues"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/WebSocketRequest.o"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/WebSocketRequest.swiftdeps"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/WebSocketRequest.dia"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Features/Validation.swift":
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.swiftdeps"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.d"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.swiftconstvalues"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.dia"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.o"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Extensions/URLRequest+Alamofire.swift":
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.swiftconstvalues"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.d"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.o"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.swiftdeps"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.dia"

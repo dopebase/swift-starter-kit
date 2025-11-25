@@ -1,0 +1,278 @@
+{
+  "" : {
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirebaseFirestore-master.dia",
+    "emit-module-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirebaseFirestore-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirebaseFirestore-master-emit-module.dia",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirebaseFirestore-master.swiftdeps"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/CollectionReference+AsyncAwait.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/Firestore+AsyncAwait.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodableErrors.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodablePassThroughTypes.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CollectionReference+WriteEncodable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentID.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+Codable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+ReadDecodable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+WriteEncodable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentSnapshot+ReadDecodable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/EncoderDecoder.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ExplicitNull.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/FieldValue+Encodable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/GeoPoint+Codable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ServerTimestamp.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampDecodingStrategy.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampEncodingStrategy.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Transaction+WriteEncodable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/VectorValue+Codable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Codable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Codable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Codable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Codable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Codable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Codable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Codable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Codable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/WriteBatch+WriteEncodable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQuery.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQueryObservable.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/QueryPredicate.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftAPI/FieldValue+Swift.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftAPI/VectorValue+Swift.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Swift.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Swift.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Swift.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Swift.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Swift.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Swift.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Swift.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/VectorValue+Swift~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,10 @@
+framework module FirebaseSharedSwift {
+  umbrella header "FirebaseSharedSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FirebaseSharedSwift.__Swift {
+  exclude header "FirebaseSharedSwift-Swift.h"
+}

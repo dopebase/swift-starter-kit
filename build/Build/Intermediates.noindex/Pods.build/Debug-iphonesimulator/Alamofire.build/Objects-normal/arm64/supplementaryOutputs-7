@@ -1,0 +1,24 @@
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Core/Response.swift":
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Response.swiftconstvalues"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Response.o"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Response.dia"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Response.d"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Response.swiftdeps"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Core/RequestTaskMap.swift":
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestTaskMap.o"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestTaskMap.d"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestTaskMap.swiftdeps"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestTaskMap.swiftconstvalues"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestTaskMap.dia"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Extensions/Result+Alamofire.swift":
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Result+Alamofire.d"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Result+Alamofire.o"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Result+Alamofire.swiftconstvalues"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Result+Alamofire.swiftdeps"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Result+Alamofire.dia"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Features/ResponseSerialization.swift":
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.o"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.dia"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.d"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.swiftdeps"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.swiftconstvalues"

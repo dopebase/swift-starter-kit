@@ -1,0 +1,4 @@
+
+module FirebaseCoreInternal.__Swift {
+  exclude header "FirebaseCoreInternal-Swift.h"
+}

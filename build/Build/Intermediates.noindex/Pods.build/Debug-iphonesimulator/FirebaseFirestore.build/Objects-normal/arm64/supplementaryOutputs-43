@@ -1,0 +1,18 @@
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+ReadDecodable.swift":
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.swiftconstvalues"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.dia"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.swiftdeps"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.d"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.o"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentSnapshot+ReadDecodable.swift":
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.swiftdeps"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.dia"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.d"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.swiftconstvalues"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.o"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+WriteEncodable.swift":
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.o"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.swiftconstvalues"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.swiftdeps"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.dia"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.d"

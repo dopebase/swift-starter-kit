@@ -1,0 +1,5 @@
+
+module FirebaseCoreInternal.Swift {
+  header "FirebaseCoreInternal-Swift.h"
+  requires objc
+}

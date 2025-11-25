@@ -1,0 +1,36 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_FirebaseAppCheckInteropVersionNumber",
+            "_FirebaseAppCheckInteropVersionString"
+          ],
+          "objc_class": [
+            "PodsDummy_FirebaseAppCheckInterop"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/FirebaseAppCheckInterop.framework/FirebaseAppCheckInterop"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

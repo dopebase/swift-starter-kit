@@ -1,0 +1,128 @@
+{
+  "" : {
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseStarterApp-master.dia",
+    "emit-module-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseStarterApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseStarterApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseStarterApp-master.swiftdeps"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/AppDelegate.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/Controls/ATCTextField.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCTextField.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCTextField.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCTextField.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCTextField.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCTextField.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCTextField.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCTextField.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCTextField~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/Controls/UIButton.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIButton.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIButton.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIButton.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIButton.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIButton.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIButton.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIButton.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIButton~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/Controls/UIColor.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIColor.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIColor.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIColor.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIColor.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIColor.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIColor.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIColor.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIColor~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/Controls/UIImage.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIImage.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIImage.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIImage.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIImage.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIImage.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIImage.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIImage.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIImage~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/Controls/UITextField.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UITextField.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UITextField.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UITextField.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UITextField.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UITextField.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UITextField.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UITextField.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UITextField~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/Controls/UIViewController+ATCAdditions.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIViewController+ATCAdditions.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIViewController+ATCAdditions.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIViewController+ATCAdditions.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIViewController+ATCAdditions.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIViewController+ATCAdditions.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIViewController+ATCAdditions.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIViewController+ATCAdditions.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/UIViewController+ATCAdditions~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/Firebase/FirebaseAuthManager.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseAuthManager.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseAuthManager.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseAuthManager.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseAuthManager.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseAuthManager.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseAuthManager.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseAuthManager.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/FirebaseAuthManager~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/ViewControllers/ATCClassicLandingScreenViewController.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLandingScreenViewController.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLandingScreenViewController.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLandingScreenViewController.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLandingScreenViewController.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLandingScreenViewController.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLandingScreenViewController.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLandingScreenViewController.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLandingScreenViewController~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/ViewControllers/ATCClassicLoginScreenViewController.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLoginScreenViewController.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLoginScreenViewController.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLoginScreenViewController.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLoginScreenViewController.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLoginScreenViewController.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLoginScreenViewController.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLoginScreenViewController.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicLoginScreenViewController~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/FirebaseStarterApp/ViewControllers/ATCClassicSignUpViewController.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicSignUpViewController.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicSignUpViewController.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicSignUpViewController.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicSignUpViewController.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicSignUpViewController.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicSignUpViewController.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicSignUpViewController.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/ATCClassicSignUpViewController~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/FirebaseStarterApp.build/Debug-iphonesimulator/FirebaseStarterApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

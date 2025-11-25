@@ -1,0 +1,24 @@
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Features/RequestCompression.swift":
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestCompression.swiftconstvalues"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestCompression.o"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestCompression.d"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestCompression.swiftdeps"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestCompression.dia"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Core/Request.swift":
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Request.swiftconstvalues"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Request.d"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Request.o"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Request.swiftdeps"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Request.dia"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Features/RequestInterceptor.swift":
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestInterceptor.dia"
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestInterceptor.o"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestInterceptor.d"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestInterceptor.swiftconstvalues"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestInterceptor.swiftdeps"
+"/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/Alamofire/Source/Features/RedirectHandler.swift":
+  object: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RedirectHandler.o"
+  dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RedirectHandler.d"
+  diagnostics: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RedirectHandler.dia"
+  swift-dependencies: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RedirectHandler.swiftdeps"
+  const-values: "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RedirectHandler.swiftconstvalues"

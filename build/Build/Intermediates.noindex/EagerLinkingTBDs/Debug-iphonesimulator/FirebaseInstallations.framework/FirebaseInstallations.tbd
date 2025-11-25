@@ -1,0 +1,102 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_kFIRInstallationsTokenExpirationThreshold",
+            "_kFIRInstallationsStoredAuthTokenStorageVersion",
+            "_kFIRInstallationsMessageCodeInvalidFirebaseAppOptions",
+            "_kFIRInstallationsStoredAuthTokenStatusKey",
+            "_kFIRInstallationsStoredAuthTokenTokenKey",
+            "_kFIRInstallationsMessageCodeAPIResponseParsingInstallationFailed",
+            "_kFIRInstallationsStoredAuthTokenExpirationDateKey",
+            "_kFIRLoggerInstallations",
+            "_kFIRInstallationsMessageCodeAPIRequestNetworkError",
+            "_kFIRInstallationsStoredItemStorageVersionKey",
+            "_kFIRInstallationsMessageCodeIIDCheckinFailedToDecode",
+            "_kFIRInstallationsIIDMigrationAuthHeader",
+            "_kFIRInstallationsMessageCodeIIDCheckinCoderVersionMismatch",
+            "_kFIRInstallationsStoredItemFirebaseInstallationIDKey",
+            "_kFIRInstallationIDDidChangeNotificationAppNameKey",
+            "_kFIRInstallationsHeartbeatKey",
+            "_kFIRInstallationsMessageCodeInvalidFirebaseConfiguration",
+            "_kFIRInstallationsMessageCodeNewGetInstallationOperationCreated",
+            "_kFIRInstallationsMessageCodeNewDeleteInstallationOperationCreated",
+            "_kFirebaseInstallationsErrorDomain",
+            "_kFIRInstallationsStoredItemAuthTokenKey",
+            "_kFIRInstallationsMessageCodeAPIResponseParsingAuthTokenFailed",
+            "_kFIRInstallationsMessageCodeCorruptedStoredInstallation",
+            "_kFIRInstallationsStoredItemStorageVersion",
+            "_kFIRInstallationsMessageCodeAPIRequestResponse",
+            "_kFIRInstallationsAPIBaseURL",
+            "_FirebaseInstallationsVersionNumber",
+            "_kFIRInstallationsStoredAuthTokenStorageVersionKey",
+            "_FIRInstallationIDDidChangeNotification",
+            "_kFIRInstallationsMessageCodeSendAPIRequest",
+            "_FirebaseInstallationsVersionString",
+            "_kFIRInstallationsStoredItemRefreshTokenKey",
+            "_kFIRInstallationsStoredItemIIDDefaultTokenKey",
+            "_kFIRInstallationsMessageCodeNewGetAuthTokenOperationCreated",
+            "_kFIRInstallationsStoreUserDefaultsID",
+            "_kFIRInstallationsBundleId",
+            "_kFIRInstallationsMessageCodeUnexpectedAPIRequestResponse",
+            "_kFIRInstallationsStoredItemRegistrationStatusKey",
+            "_kFIRInstallationsMessageCodeAPIResponseParsingAuthTokenSucceed",
+            "_kFIRInstallationsMessageCodeParsingAPIResponse",
+            "_kFIRInstallationsAPIKey",
+            "_kFIRInstallationsMessageCodeAPIResponseParsingInstallationSucceed",
+            "_kFIRInstallationsMessageCodeAuthTokenCoderVersionMismatch",
+            "_kFIRInstallationsMessageCodeInstallationCoderVersionMismatch"
+          ],
+          "objc_class": [
+            "FIRInstallationsIDController",
+            "FIRInstallationsStore",
+            "FIRInstallationsStoredItem",
+            "FIRInstallationsIIDTokenStore",
+            "FIRInstallationsIIDStore",
+            "FIRInstallationsItem",
+            "FIRInstallationsSingleOperationPromiseCache",
+            "FIRInstallationsAPIService",
+            "FIRInstallationsErrorUtil",
+            "FIRInstallationsAuthTokenResult",
+            "FIRInstallationsBackoffEventData",
+            "FIRInstallationsIIDTokenInfo",
+            "FIRInstallationsStoredAuthToken",
+            "PodsDummy_FirebaseInstallations",
+            "FIRInstallations",
+            "FIRInstallationsHTTPError",
+            "FIRInstallationsURLSessionResponse",
+            "FIRInstallationsBackoffController"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FIRInstallationsItemSetErrorToPointer",
+            "_FIRInclude_FIRInstallationsItem_RegisterInstallationAPI_Category",
+            "_FIRRealCurrentDateProvider"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/FirebaseInstallations.framework/FirebaseInstallations"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

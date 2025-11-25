@@ -1,0 +1,36 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_RecaptchaInteropVersionNumber",
+            "_RecaptchaInteropVersionString"
+          ],
+          "objc_class": [
+            "PodsDummy_RecaptchaInterop"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/RecaptchaInterop.framework/RecaptchaInterop"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

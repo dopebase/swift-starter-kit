@@ -1,0 +1,74 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_kGTMSessionFetcherServiceSessionKey",
+            "_kGTMSessionFetcherStoppedNotification",
+            "_kGTMSessionFetcherUploadInitialBackoffStartedNotification",
+            "_kGTMSessionFetcherErrorDomain",
+            "_kGTMSessionUploadFetcherStandardChunkSize",
+            "_GTMSessionFetcherVersionString",
+            "_kGTMSessionFetcherCompletionErrorKey",
+            "_kGTMSessionFetcherCompletionDataKey",
+            "_kGTMSessionFetcherCompletionInvokedNotification",
+            "_kGTMSessionFetcherStartedNotification",
+            "_kGTMSessionFetcherRetryDelayStartedNotification",
+            "_kGTMSessionFetcherStatusDataKey",
+            "_kGTMSessionFetcherUploadLocationObtainedNotification",
+            "_kGTMSessionFetcherServiceSessionBecameInvalidNotification",
+            "_kGTMSessionFetcherRetryDelayStoppedNotification",
+            "_GTMSessionFetcherVersionNumber",
+            "_kGTMSessionFetcherStatusDataContentTypeKey",
+            "_kGTMSessionUploadFetcherMaximumDemandBufferSize",
+            "_kGTMSessionFetcherElapsedIntervalWithRetriesKey",
+            "_kGTMSessionFetcherNumberOfRetriesDoneKey",
+            "_kGTMSessionFetcherStatusDomain",
+            "_kGTMSessionUploadFetcherUnknownFileSize"
+          ],
+          "objc_class": [
+            "GTMStandardUserAgentProvider",
+            "GTMUserAgentStringProvider",
+            "GTMSessionFetcher",
+            "GTMSessionUploadFetcher",
+            "GTMSessionFetcherSessionDelegateDispatcher",
+            "PodsDummy_GTMSessionFetcher",
+            "GTMSessionCookieStorage",
+            "GTMSessionSyncMonitorInternal",
+            "GTMSessionFetcherService"
+          ]
+        },
+        "text": {
+          "global": [
+            "_GTMFetcherCleanedUserAgentString",
+            "_GTMSessionFetcherAssertValidSelector",
+            "_GTMDataFromInputStream",
+            "_GTMFetcherApplicationIdentifier",
+            "_GTMFetcherStandardUserAgentString",
+            "_GTMFetcherSystemVersionString"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/GTMSessionFetcher.framework/GTMSessionFetcher"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

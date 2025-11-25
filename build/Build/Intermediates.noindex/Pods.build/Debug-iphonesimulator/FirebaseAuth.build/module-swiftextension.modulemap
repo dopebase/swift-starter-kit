@@ -1,0 +1,5 @@
+
+module FirebaseAuth.Swift {
+  header "FirebaseAuth-Swift.h"
+  requires objc
+}

@@ -1,0 +1,128 @@
+{
+  "" : {
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master.dia",
+    "emit-module-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master-emit-module.dia",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master.swiftdeps"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Heartbeat~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatController~partial.swiftmodule"
+  },
+  "/Users/adonias/swift-starter-kit/FirebaseStarterApp/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift" : {
+    "const-values" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.swiftconstvalues",
+    "dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.d",
+    "diagnostics" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.o",
+    "llvm-bc" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.bc",
+    "object" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.o",
+    "swift-dependencies" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload.swiftdeps",
+    "swiftmodule" : "/Users/adonias/swift-starter-kit/FirebaseStarterApp/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/_ObjC_HeartbeatsPayload~partial.swiftmodule"
+  }
+}

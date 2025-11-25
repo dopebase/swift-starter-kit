@@ -1,0 +1,63 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_FBLPromiseRetryDefaultDelayInterval",
+            "_FBLPromisesVersionString",
+            "_FBLPromiseErrorDomain",
+            "_FBLPromiseRetryDefaultAttemptsCount",
+            "_FBLPromisesVersionNumber"
+          ],
+          "objc_class": [
+            "FBLPromise",
+            "PodsDummy_PromisesObjC"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FBLIncludeTestingCategory",
+            "_FBLIncludeAnyCategory",
+            "_FBLIncludeDelayCategory",
+            "_FBLIncludeAlwaysCategory",
+            "_FBLIncludeAllCategory",
+            "_FBLIncludeDoCategory",
+            "_FBLIncludeReduceCategory",
+            "_FBLIncludeWrapCategory",
+            "_FBLIncludeValidateCategory",
+            "_FBLIncludeRecoverCategory",
+            "_FBLWaitForPromisesWithTimeout",
+            "_FBLIncludeThenCategory",
+            "_FBLIncludeAwaitCategory",
+            "_FBLIncludeRetryCategory",
+            "_FBLIncludeCatchCategory",
+            "_FBLIncludeTimeoutCategory",
+            "_FBLPromiseAwait",
+            "_FBLIncludeAsyncCategory",
+            "_FBLIncludeRaceCategory"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/FBLPromises.framework/FBLPromises"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}
