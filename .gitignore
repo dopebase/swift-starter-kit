@@ -8,11 +8,9 @@
 *.so
 
 # Pods
-FirebaseStarterApp/Pods
-FirebaseStarterApp/FirebaseStarterApp.xcodeproj/project.xcworkspace
-FirebaseStarterApp/FirebaseStarterApp.xcworkspace/
-FirebaseStarterApp/Podfile.lock
-FirebaseStarterApp/FirebaseStarterApp.xcodeproj/xcuserdata
+Pods/
+*.xcodeproj/xcuserdata
+*.xcodeproj/project.xcworkspace/xcuserdata
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
