@@ -1,5 +1,0 @@
-
-module Alamofire.Swift {
-  header "Alamofire-Swift.h"
-  requires objc
-}

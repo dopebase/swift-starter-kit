@@ -1,4 +1,0 @@
-
-module FirebaseSharedSwift.__Swift {
-  exclude header "FirebaseSharedSwift-Swift.h"
-}

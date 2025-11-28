@@ -1,4 +1,0 @@
-
-module Alamofire.__Swift {
-  exclude header "Alamofire-Swift.h"
-}

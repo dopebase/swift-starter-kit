@@ -1,5 +1,0 @@
-
-module FirebaseFirestore.Swift {
-  header "FirebaseFirestore-Swift.h"
-  requires objc
-}

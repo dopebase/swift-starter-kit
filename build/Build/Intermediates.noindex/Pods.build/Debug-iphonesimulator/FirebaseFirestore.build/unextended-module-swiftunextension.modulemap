@@ -1,4 +1,0 @@
-
-module FirebaseFirestore.__Swift {
-  exclude header "FirebaseFirestore-Swift.h"
-}

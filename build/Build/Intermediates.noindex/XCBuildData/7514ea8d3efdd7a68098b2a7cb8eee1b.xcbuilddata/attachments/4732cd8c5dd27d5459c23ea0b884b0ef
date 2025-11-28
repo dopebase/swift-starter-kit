@@ -1,5 +1,0 @@
-
-module FirebaseSharedSwift.Swift {
-  header "FirebaseSharedSwift-Swift.h"
-  requires objc
-}

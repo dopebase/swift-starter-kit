@@ -1,4 +1,0 @@
-
-module FirebaseAuth.__Swift {
-  exclude header "FirebaseAuth-Swift.h"
-}
